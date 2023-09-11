@@ -1,6 +1,13 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W01 200 L02 CLASSROOM/ZOOM meeting related
+ZCZC W01 10 L01 SCELE/Discord related
+ZCZC W01 120 L09 Weekly Assignment
+ZCZC W01 120 L05 Quiz related including studying
+ZCZC W01 90 L08 OS Chat Related with Friend
+ZCZC W01 20 L63 Fixing Hardware Problems
+ZCZC W01 80 L32 YouTube: watching OS related topics, etc.
 ZCZC W00 20 L03 GitHub related
 ZCZC W00 15 L10 Assignment #00
 ZCZC W00 110 L05 Quiz related including studying, setting up SEB, etc.
@@ -11,9 +18,3 @@ ZCZC W00 3060 L84 Relax, Rest, Nap, and Sleep
 ZCZC W00 390 L87 Breakfast/Lunch/Dinner/Snake
 ZCZC W00 800 L81 Listening: Radio, Music, etc.
 ZCZC W00 620 L80 Waching: Movie, YouTube, TV, Netflix, etc.
-ZCZC W01 200 L02 CLASSROOM/ZOOM meeting related
-ZCZC W01 120 L11 Assignment #01
-ZCZC W01 120 L05 Quiz related including studying
-ZCZC W01 90 L08 OS Chat Related with Friend
-ZCZC W01 20 L63 Fixing Hardware Problems
-ZCZC W01 80 L32 YouTube: watching OS related topics, etc.
