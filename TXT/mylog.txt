@@ -1,6 +1,10 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W02 10 L41 Update: mylog.txt
+ZCZC W02 10 L08 OS Chat Related (/w dimashn04, kkuratolodon).
+ZCZC W02 65 L09 Weekly Assignments
+ZCZC W02 200 L02 CLASSROOM/ZOOM meeting related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meeting related
 ZCZC W01 10 L01 SCELE/Discord related
 ZCZC W01 120 L09 Weekly Assignment
