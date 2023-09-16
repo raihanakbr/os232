@@ -9,6 +9,6 @@ Some basic linux commands that will be commonly used.
 Recommended for beginners, basically covered an introductory course to linux in 10 minutes.
 * [Linux Practice Test](http://www.linux-admins.net/2010/12/lpi-101-certification-practice-test.html) --- A little linux command practice test. A recommended site to become more familiar with linux commands.
 * [Bash Scripting Cheatsheet](https://devhints.io/bash) --- A list of useful bash commands in the form of cheatsheet. Simple, concise, and easy to see cheatsheet for bash scripting.
-* [Linux Shell Practice Problem] --- Practice problems for linux shell including bash, text processing, grep, sed, and awk. Recommended for beginners since there are visible test cases and tutorials.
+* [Linux Shell Practice Problem](https://www.hackerrank.com/domains/shell) --- Practice problems for linux shell including bash, text processing, grep, sed, and awk. Recommended for beginners since there are visible test cases and tutorials.
 <br>
 <hr>
