@@ -11,5 +11,6 @@ Recommended for beginners, basically covered an introductory course to linux in 
 * [Bash Scripting Cheatsheet](https://devhints.io/bash) --- A list of useful bash commands in the form of cheatsheet. Simple, concise, and easy to see cheatsheet for bash scripting.
 * [Linux Shell Practice Problem](https://www.hackerrank.com/domains/shell) --- Practice problems for linux shell including bash, text processing, grep, sed, and awk. Recommended for beginners since there are visible test cases and tutorials.
 * [A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html) --- Guide to writing shell scripts. Simple guide with examples, easy to understand.
+* [C Pointers](https://www.geeksforgeeks.org/c-pointers/) --- A brief docummentation of pointers in C. Recommended for beginners, provided examples.
 <br>
 <hr>
