@@ -12,5 +12,7 @@ Recommended for beginners, basically covered an introductory course to linux in 
 * [Linux Shell Practice Problem](https://www.hackerrank.com/domains/shell) --- Practice problems for linux shell including bash, text processing, grep, sed, and awk. Recommended for beginners since there are visible test cases and tutorials.
 * [A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html) --- Guide to writing shell scripts. Simple guide with examples, easy to understand.
 * [C Pointers](https://www.geeksforgeeks.org/c-pointers/) --- A brief docummentation of pointers in C. Recommended for beginners, provided examples.
+* [Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM) --- A video that discuss the basics of paging. Recommended as it provides examples of how to calculate the number of memory frames, how many bits are needed for displacement into a page in the page table, etc.
+* [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) --- Explanation about Virtual Memory, provides a clear and concise explanation of complex concepts. The site breaks down these concepts into easy-to-understand language, making it an excellent resource for students.
 <br>
 <hr>
