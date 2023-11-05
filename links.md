@@ -14,5 +14,6 @@ Recommended for beginners, basically covered an introductory course to linux in 
 * [C Pointers](https://www.geeksforgeeks.org/c-pointers/) --- A brief docummentation of pointers in C. Recommended for beginners, provided examples.
 * [Paging (OS)](https://www.youtube.com/watch?v=LKYKp_ZzlvM) --- A video that discuss the basics of paging. Recommended as it provides examples of how to calculate the number of memory frames, how many bits are needed for displacement into a page in the page table, etc.
 * [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) --- Explanation about Virtual Memory, provides a clear and concise explanation of complex concepts. The site breaks down these concepts into easy-to-understand language, making it an excellent resource for students.
+* [UNIX Shell basics and process-related system calls](https://www.studocu.com/en-us/document/william-paterson-university/operating-systems/unix-fork-wait-and-exec-demos/20425968) --- Understanding Core Concepts: The fork(), exec(), and wait() are fundamental system calls in UNIX-based operating systems. Understanding these can help students grasp how processes are created, replaced, and managed.
 <br>
 <hr>

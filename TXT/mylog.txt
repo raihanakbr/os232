@@ -1,6 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W06 15 L41 TXT/mylog.txt related.
+ZCZC W06 15 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 70 L09 Trying Pop Quizzes, etc.
+ZCZC W06 90 L15 Assignment #05
+ZCZC W06 20 L08 OS Chat related.
+ZCZC W06 30 L32 Youtube: watching OS related topics, etc.
+ZCZC W06 90 L05 Quiz related including studying
+ZCZC W06 40 L25 C-language including Make.
+ZCZC W06 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 15 L41 TXT/mylog.txt related.
 ZCZC W05 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W05 70 L09 Trying Pop Quizzes, etc.
