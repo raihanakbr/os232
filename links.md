@@ -17,5 +17,6 @@ Recommended for beginners, basically covered an introductory course to linux in 
 * [UNIX Shell basics and process-related system calls](https://www.studocu.com/en-us/document/william-paterson-university/operating-systems/unix-fork-wait-and-exec-demos/20425968) --- Understanding Core Concepts: The fork(), exec(), and wait() are fundamental system calls in UNIX-based operating systems. Understanding these can help students grasp how processes are created, replaced, and managed.
 * [Introduction to Deadlocks in Operating System](Introduction to Deadlocks in Operating System) --- Deadlocks are a set of blocked processes each holding a resource and waiting to acquire a resource held by another process. This well-written article provides explanations about deadlocks.
 * [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/) --- When more than one processes access a same code segment that segment is known as critical section. Critical section contains shared variables or resources which are needed to be synchronized to maintain consistency of data variable.
+* [What is Linux From Scratch?](https://www.linuxfromscratch.org/lfs/) --- Provides explanation about Linux From Scratch. Provides FAQs about LFS System.
 <br>
 <hr>
